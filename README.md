@@ -24,11 +24,14 @@ This repository documents the setup and configuration of **Microsoft Azure Virtu
 
 <p align="center">
 Creating a Virtual Machine in Azure: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Azure VM Deployment"/>
+<img src="https://imgur.com/ckUj7LJ.png" height="80%" width="80%" alt="Azure VM Deployment"/>
+<img src="https://imgur.com/pvjGl9G.png" height="80%" width="80%" alt="Azure VM Deployment"/>
 <br />
+Creating a Resource Group in Azure: <br/>
+<img src="https://imgur.com/wb6YuaA.png" height="80%" width="80%" alt="Azure VM Deployment"/>
 <br />
 Configuring Network Security Groups (NSGs):  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="NSG Configuration"/>
+<img src="https://imgur.com/3Ze8Dbx.png" height="80%" width="80%" alt="NSG Configuration"/>
 <br />
 <br />
 Remote Connection via SSH/RDP: <br/>
